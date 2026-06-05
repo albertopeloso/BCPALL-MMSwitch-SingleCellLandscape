@@ -63,10 +63,9 @@ Raw and processed datasets generated in this study are publicly available throug
 
 ```text
 Gomiero G and Peloso A et al.
-Transient myelomonocytic switch in pediatric B-cell precursor acute
-lymphoblastic leukemia is driven by a fate-uncertain leukemic compartment
-revealed by single-cell multi-omics.
+Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment
 [doi:]
+```
 
 ## Contact
 
