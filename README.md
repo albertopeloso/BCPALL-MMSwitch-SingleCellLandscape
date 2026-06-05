@@ -50,7 +50,7 @@ scripts/
 | 05_palantir | Pseudotime inference and lineage trajectory reconstruction |
 | 06_mellon | Cell-state density and entropy estimation |
 | 07_methylation | DNA methylation preprocessing and differential methylation analyses |
-| 08_variants | Mutational landscape visualization and variant-based analyses |
+| 08_variants | Mutational landscape visualization |
 
 ## Data Availability
 
