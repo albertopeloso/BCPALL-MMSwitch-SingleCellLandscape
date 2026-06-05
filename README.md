@@ -3,7 +3,7 @@
 ![Workflow](docs/workflow.png)
 
 Code repository accompanying the manuscript:
-> Gomiero G. and Peloso A. et al. *Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment*.
+> Gomiero G, Peloso A et al. *Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment*.
 
 ## Overview
 
@@ -62,7 +62,7 @@ Raw and processed datasets generated in this study are publicly available throug
 ## Citation
 
 ```text
-Gomiero G and Peloso A et al. Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment. [doi:]
+Gomiero G, Peloso A et al. Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment. [doi:]
 ```
 
 ## Contact
