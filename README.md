@@ -69,7 +69,7 @@ Gomiero G and Peloso A et al. Single-cell multiomic profiling reveals lineage pl
 
 **Alberto Peloso**  
 Department of Women's and Children's Health  
-University of Padua
+University of Padua  
 Padova, Italy
 
 Email: [alberto.peloso@unipd.it](mailto:alberto.peloso@unipd.it)
