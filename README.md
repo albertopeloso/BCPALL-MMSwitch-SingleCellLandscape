@@ -21,8 +21,6 @@ to characterize diagnosis (Dx) and Day+15 (D15) bone marrow samples from pediatr
 
 Our analyses reveal that mmSW-positive BCP-ALLs harbor a pre-existing transcriptionally unstable and fate-uncertain leukemic compartment enriched for stemness and myeloid-primed programs. Longitudinal single-cell analyses demonstrate that this population undergoes transdifferentiation toward a myelomonocytic state during induction therapy. We further identify distinct mutational and epigenetic features associated with this phenomenon, supporting a model of intrinsic leukemic plasticity.
 
----
-
 ## Repository Structure
 
 ```text
