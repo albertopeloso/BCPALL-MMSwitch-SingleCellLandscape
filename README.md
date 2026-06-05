@@ -62,16 +62,14 @@ Raw and processed datasets generated in this study are publicly available throug
 ## Citation
 
 ```text
-Gomiero G and Peloso A et al.
-Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment
-[doi:]
+Gomiero G and Peloso A et al. Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment. [doi:]
 ```
 
 ## Contact
 
 **Alberto Peloso**  
 Department of Women's and Children's Health  
-University of Padova  
+University of Padua
 Padova, Italy
 
 Email: [alberto.peloso@unipd.it](mailto:alberto.peloso@unipd.it)
