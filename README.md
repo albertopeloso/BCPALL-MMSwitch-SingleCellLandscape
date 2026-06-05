@@ -1,7 +1,7 @@
 # BCPALL-MMSwitch-SingleCellLandscape
 
 Code repository accompanying the manuscript:
-> Gomiero G. and Peloso A. et al. *Transient myelomonocytic switch in pediatric B-cell precursor acute lymphoblastic leukemia is driven by a fate-uncertain leukemic compartment revealed by single-cell multi-omics*.
+> Gomiero G. and Peloso A. et al. *Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment*.
 
 ## Overview
 
