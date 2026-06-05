@@ -1,4 +1,4 @@
-## Single-cell multiomic profiling reveals lineage plasticity in pediatricc<br>B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment
+## Single-cell multiomic profiling reveals lineage plasticity in pediatric<br>B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment
 
 ![Workflow](docs/workflow.png)
 
