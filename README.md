@@ -37,6 +37,7 @@ scripts/
 ├── 06_mellon/
 ├── 07_methylation/
 └── 08_variants/
+```
 
 ## Analysis Modules
 
