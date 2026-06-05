@@ -1,5 +1,7 @@
 # BCPALL-MMSwitch-SingleCellLandscape
 
+![Workflow](docs/workflow.png)
+
 Code repository accompanying the manuscript:
 > Gomiero G. and Peloso A. et al. *Single-cell multiomic profiling reveals lineage plasticity in pediatric B-lineage Acute Lymphoblastic Leukemia during the early phase of treatment*.
 
