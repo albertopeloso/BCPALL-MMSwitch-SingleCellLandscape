@@ -14,7 +14,7 @@ In this study, we applied an integrated multi-omics approach combining:
 - Single-cell RNA sequencing (scRNA-seq)
 - AbSeq surface protein profiling
 - Whole-genome sequencing (WGS)
-- Whole-transcriptome sequencing (RNAseq)
+- Whole-transcriptome sequencing (RNA-seq)
 - DNA methylation profiling
 
 to characterize diagnosis (Dx) and Day+15 (D15) bone marrow samples from pediatric BCP-ALL patients with and without transient mmSW.
